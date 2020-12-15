@@ -9,7 +9,7 @@ const StyledContent = styled.div`
   justify-content: center;
   align-content: flex-start;
   flex-direction: column;
-  max-width: 900px;
+  max-width: 80%;
   margin: 0 auto;
   ul {
     margin-bottom: 10px;
@@ -35,7 +35,11 @@ const Content = () => {
   }, [modules]);
 
   const handleChange = (event) => {
-    setSearchTerm(event.target.value);
+    if (event.target.value !== "") {
+      setSearchTerm(event.target.value);
+    } else {
+      setSearchResults([]);
+    }
   };
 
   useEffect(() => {
@@ -44,13 +48,15 @@ const Content = () => {
         v.title.toLowerCase().includes(searchTerm.toLowerCase())
       );
       setSearchResults(result);
-      console.log(result);
+    } else {
+      setSearchResults([]);
     }
   }, [resources, searchTerm]);
 
   return (
     <StyledContent>
-      <Search handleChange={handleChange} setSearchTerm={setSearchTerm} />
+      <Search handleChange={handleChange} searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+      <a href="/bootcamp-resources.pdf">Download PDF version of this page</a>
       <Results results={searchResults} />
       {modules.map((value) => (
         <div key={value.module}>
@@ -66,7 +72,7 @@ const Content = () => {
                     {items.links &&
                       items.links.map((link) => (
                         <li key={link}>
-                          <a href={link}>{link}</a>
+                          <a href={link}target="_blank" rel="noreferrer">{link}</a>
                         </li>
                       ))}
                   </ul>

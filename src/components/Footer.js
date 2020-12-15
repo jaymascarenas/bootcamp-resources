@@ -16,7 +16,7 @@ const StyledFooter = styled.div`
 const Footer = () => {
   return (
     <StyledFooter>
-      <p>&copy; {new Date().getFullYear()} DU Bootcamps</p>
+      <p>&copy; {new Date().getFullYear()} Jay Mascarenas</p>
     </StyledFooter>
   );
 };

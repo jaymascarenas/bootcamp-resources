@@ -1,23 +1,50 @@
 import React from "react";
+import styled from "styled-components";
+
+const StyledResults = styled.div`
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  width: 100%;
+  margin: 20px auto;
+  .card {
+    color: #ffffff;
+    width: 30%;
+    border-radius: 5px;
+    background-color: #2fabff;
+    padding: 10px;
+    margin: 10px;
+  }
+  a {
+    white-space: wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 12px;
+    line-height: 1;
+    color: #ffffff;
+  }
+`;
 
 const Results = ({ results }) => {
   return (
-    <ul>
-      {results &&
+    <StyledResults>
+      {results.length > 0 &&
         results.map((items) => (
-          <li key={items.title}>
-            <strong>{items.title}</strong> - Day {items.day}
-            <ul>
+          <h4 className="card" key={items.title}>
+            <strong>{items.title}</strong> - Week {items.week} Day {items.day}
+            <div>
               {items.links &&
                 items.links.map((link) => (
-                  <li key={link}>
-                    <a href={link}>{link}</a>
-                  </li>
+                  <p key={link}>
+                    <a href={link} target="_blank" rel="noreferrer">
+                      {link}
+                    </a>
+                  </p>
                 ))}
-            </ul>
-          </li>
+            </div>
+          </h4>
         ))}
-    </ul>
+    </StyledResults>
   );
 };
 
