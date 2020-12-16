@@ -12,7 +12,12 @@ const StyledContent = styled.div`
   max-width: 80%;
   margin: 0 auto;
   ul {
-    margin-bottom: 10px;
+    li {
+      word-wrap: break-word;
+    }
+  }
+  ul:first-of-type {
+    padding-left: 30px;
   }
 `;
 
@@ -55,30 +60,34 @@ const Content = () => {
 
   return (
     <StyledContent>
-      <Search handleChange={handleChange} searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
-      <a href="/bootcamp-resources.pdf">Download PDF version of this page</a>
+      <Search
+        handleChange={handleChange}
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
+      />
+      <a href="/bootcamp-resources.pdf">Download PDF Version</a>
       <Results results={searchResults} />
       {modules.map((value) => (
         <div key={value.module}>
-          <h3>
+          <h2>
             {value.module} - Week {value.week}
-          </h3>
-          <ul>
-            {value.resources &&
-              value.resources.map((items) => (
-                <li key={items.title}>
-                  <strong>{items.title}</strong> - Day {items.day}
-                  <ul>
-                    {items.links &&
-                      items.links.map((link) => (
-                        <li key={link}>
-                          <a href={link}target="_blank" rel="noreferrer">{link}</a>
-                        </li>
-                      ))}
-                  </ul>
-                </li>
-              ))}
-          </ul>
+          </h2>
+          {value.resources &&
+            value.resources.map((items) => (
+              <div key={items.title}>
+                <strong>{items.title}</strong> - Day {items.day}
+                <ul>
+                  {items.links &&
+                    items.links.map((link) => (
+                      <li key={link}>
+                        <a href={link} target="_blank" rel="noreferrer">
+                          {link}
+                        </a>
+                      </li>
+                    ))}
+                </ul>
+              </div>
+            ))}
           <hr />
         </div>
       ))}

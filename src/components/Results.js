@@ -23,6 +23,11 @@ const StyledResults = styled.div`
     line-height: 1;
     color: #ffffff;
   }
+  @media screen and (max-width: 768px) {
+    .card {
+      width: 100%;
+    }
+  }
 `;
 
 const Results = ({ results }) => {
