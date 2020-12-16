@@ -16,9 +16,7 @@ const StyledResults = styled.div`
     margin: 10px;
   }
   a {
-    white-space: wrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    word-wrap: break-word;
     font-size: 12px;
     line-height: 1;
     color: #ffffff;
