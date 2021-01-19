@@ -2240,6 +2240,15 @@
         "week": 20
       },
       {
+        "title": "How to Solve the Infinite Loop of React.useEffect()",
+        "links": [
+          "https://dmitripavlutin.com/react-useeffect-infinite-loop/"
+        ],
+        "comments": "",
+        "day": 1,
+        "week": 20
+      },
+      {
         "title": "List of React Hooks",
         "links": ["https://nikgraf.github.io/react-hooks/"],
         "comments": "",
