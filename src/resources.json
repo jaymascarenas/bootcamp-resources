@@ -139,105 +139,118 @@
     ]
   },
   {
-    "module": "Unit 02: CSS-Bootstrap",
+    "module": "Unit 02: Advanced CSS",
     "week": 2,
     "resources": [
       {
-        "title": "Specificity",
-        "links": ["https://css-tricks.com/specifics-on-css-specificity/"],
-        "comments": "",
-        "day": 1,
-        "week": 2
-      },
-      {
-        "title": "Difference Between the 3 Types of CSS Styles: Inline, External and Internal",
+        "title": "Using media queries",
         "links": [
-          "https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css"
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries"
         ],
         "comments": "",
         "day": 1,
         "week": 2
       },
       {
-        "title": "CSS Reset",
-        "links": ["https://meyerweb.com/eric/tools/css/reset/"],
+        "title": "Basic concepts of flexbox",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"
+        ],
         "comments": "",
         "day": 1,
         "week": 2
       },
       {
-        "title": "Github Pages",
-        "links": ["https://pages.github.com/"],
+        "title": "CSS Flexible Box Layout",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout"
+        ],
         "comments": "",
         "day": 1,
         "week": 2
       },
       {
-        "title": "Google Fonts",
-        "links": ["https://fonts.google.com/"],
+        "title": "Cascade and inheritance",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"
+        ],
         "comments": "",
         "day": 2,
         "week": 2
       },
       {
-        "title": "Font Awesome",
-        "links": ["https://fontawesome.com/"],
+        "title": "Fundamental text and font styling",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals"
+        ],
         "comments": "",
         "day": 2,
         "week": 2
       },
       {
-        "title": "TypePlate",
-        "links": ["http://typeplate.com/"],
+        "title": "Pseudo-classes",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"
+        ],
         "comments": "",
         "day": 2,
         "week": 2
       },
       {
-        "title": "More on Hover",
-        "links": ["http://ianlunn.github.io/Hover/"],
+        "title": "CSS Display",
+        "links": ["https://developer.mozilla.org/en-US/docs/Web/CSS/display"],
         "comments": "",
         "day": 2,
         "week": 2
       },
       {
-        "title": "Twitter Bootstrap",
-        "links": ["https://getbootstrap.com"],
+        "title": "Pseudo-elements",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements"
+        ],
         "comments": "",
         "day": 2,
         "week": 2
       },
       {
-        "title": "More info on the BEM Principle",
-        "links": ["http://getbem.com/"],
+        "title": "appearance (-moz-appearance, -webkit-appearance)",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/appearance"
+        ],
         "comments": "",
         "day": 2,
         "week": 2
       },
       {
-        "title": "Video Guide for Activity 14-TextLayout",
-        "links": ["https://www.youtube.com/watch?v=wQovwgW020g"],
+        "title": "Combinators",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators"
+        ],
+        "comments": "",
+        "day": 2,
+        "week": 2
+      },
+      {
+        "title": "Attribute selectors",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors"
+        ],
         "comments": "",
         "day": 3,
         "week": 2
       },
       {
-        "title": "Video Guild for Activity 18-StudentMedia",
-        "links": ["https://www.youtube.com/watch?v=x_wlcp-W27c"],
+        "title": "Using CSS custom properties (variables)",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"
+        ],
         "comments": "",
         "day": 3,
         "week": 2
       },
       {
-        "title": "Viewport on W3Schools",
-        "links": ["http://www.w3schools.com/css/css_rwd_viewport.asp"],
-        "comments": "",
-        "day": 3,
-        "week": 2
-      },
-      {
-        "title": "Viewport Emulator",
-        "links": ["http://www.viewportemulator.com/"],
+        "title": "Website wireframe",
+        "links": ["https://en.wikipedia.org/wiki/Website_wireframe"],
         "comments": "",
         "day": 3,
         "week": 2
@@ -2241,9 +2254,7 @@
       },
       {
         "title": "How to Solve the Infinite Loop of React.useEffect()",
-        "links": [
-          "https://dmitripavlutin.com/react-useeffect-infinite-loop/"
-        ],
+        "links": ["https://dmitripavlutin.com/react-useeffect-infinite-loop/"],
         "comments": "",
         "day": 1,
         "week": 20

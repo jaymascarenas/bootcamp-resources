@@ -40,10 +40,13 @@ const Content = () => {
   }, [modules]);
 
   const handleChange = (event) => {
-    if (event.target.value !== "") {
-      setSearchTerm(event.target.value);
+    const { value } = event.target;
+
+    if (value !== "") {
+      setSearchTerm(value);
     } else {
       setSearchResults([]);
+      setSearchTerm("");
     }
   };
 
