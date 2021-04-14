@@ -9,7 +9,6 @@
           "https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser"
         ],
         "comments": "",
-        "day": 2,
         "week": 1
       },
       {
@@ -18,7 +17,6 @@
           "https://developer.mozilla.org/en-US/docs/Glossary/Semantics"
         ],
         "comments": "",
-        "day": 2,
         "week": 1
       },
       {
@@ -27,21 +25,18 @@
           "http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf"
         ],
         "comments": "",
-        "day": 2,
         "week": 1
       },
       {
         "title": "CSS Resources",
         "links": ["https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"],
         "comments": "",
-        "day": 2,
         "week": 1
       },
       {
         "title": "CSS Zen Garden (HTML/CSS Examples",
         "links": ["http://www.csszengarden.com/"],
         "comments": "",
-        "day": 2,
         "week": 1
       },
       {
@@ -50,42 +45,36 @@
           "https://www.youtube.com/watch?v=kMBinXTCrXI&list=PLgJ8UgkiorCnMLsUevoQRxH8t9bt7ne14&index=2"
         ],
         "comments": "",
-        "day": 2,
         "week": 1
       },
       {
         "title": "Paths",
         "links": ["https://css-tricks.com/quick-reminder-about-file-paths/"],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
         "title": "CSS Layouts",
         "links": ["http://learnlayout.com/no-layout.html"],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
         "title": "CSS Floats",
         "links": ["https://css-tricks.com/all-about-floats/"],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
         "title": "Floats in CSS Video Walkthrough",
         "links": ["https://youtu.be/0lpxKw6E90Y"],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
         "title": "Positioning in CSS Video Walkthrough",
         "links": ["https://youtu.be/sHfJn0jqBro"],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
@@ -94,7 +83,6 @@
           "https://www.youtube.com/watch?v=yWXgnQaWSW0&feature=youtu.be"
         ],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
@@ -103,14 +91,12 @@
           "https://css-tricks.com/what-you-should-know-about-collapsing-margins/"
         ],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
         "title": "History of Clearfix",
         "links": ["https://css-tricks.com/snippets/css/clear-fix/"],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
@@ -119,21 +105,18 @@
           "https://css-tricks.com/to-double-colon-or-not-do-double-colon/"
         ],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
         "title": "Floats Activity Video Walkthrough ",
         "links": ["https://www.youtube.com/watch?v=0lpxKw6E90Y"],
         "comments": "",
-        "day": 3,
         "week": 1
       },
       {
         "title": "CSS Box Sizing",
         "links": ["https://css-tricks.com/box-sizing/"],
         "comments": "",
-        "day": 3,
         "week": 1
       }
     ]
@@ -148,7 +131,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries"
         ],
         "comments": "",
-        "day": 1,
         "week": 2
       },
       {
@@ -157,7 +139,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"
         ],
         "comments": "",
-        "day": 1,
         "week": 2
       },
       {
@@ -166,7 +147,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout"
         ],
         "comments": "",
-        "day": 1,
         "week": 2
       },
       {
@@ -175,7 +155,6 @@
           "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"
         ],
         "comments": "",
-        "day": 2,
         "week": 2
       },
       {
@@ -184,7 +163,6 @@
           "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals"
         ],
         "comments": "",
-        "day": 2,
         "week": 2
       },
       {
@@ -193,14 +171,12 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"
         ],
         "comments": "",
-        "day": 2,
         "week": 2
       },
       {
         "title": "CSS Display",
         "links": ["https://developer.mozilla.org/en-US/docs/Web/CSS/display"],
         "comments": "",
-        "day": 2,
         "week": 2
       },
       {
@@ -209,7 +185,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements"
         ],
         "comments": "",
-        "day": 2,
         "week": 2
       },
       {
@@ -218,7 +193,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/appearance"
         ],
         "comments": "",
-        "day": 2,
         "week": 2
       },
       {
@@ -227,7 +201,6 @@
           "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators"
         ],
         "comments": "",
-        "day": 2,
         "week": 2
       },
       {
@@ -236,7 +209,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors"
         ],
         "comments": "",
-        "day": 3,
         "week": 2
       },
       {
@@ -245,14 +217,12 @@
           "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"
         ],
         "comments": "",
-        "day": 3,
         "week": 2
       },
       {
         "title": "Website wireframe",
         "links": ["https://en.wikipedia.org/wiki/Website_wireframe"],
         "comments": "",
-        "day": 3,
         "week": 2
       }
     ]
@@ -265,7 +235,6 @@
         "title": "What is JavaScript?",
         "links": ["https://javascript.info/intro"],
         "comments": "",
-        "day": 1,
         "week": 3
       },
       {
@@ -274,21 +243,18 @@
           "https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8"
         ],
         "comments": "",
-        "day": 2,
         "week": 3
       },
       {
         "title": "Variables - Simple Definition",
         "links": ["https://www.w3schools.com/js/js_variables.asp"],
         "comments": "",
-        "day": 1,
         "week": 3
       },
       {
         "title": "Variables - Digging Deeper",
         "links": ["https://www.javascripttutorial.net/javascript-variables/"],
         "comments": "",
-        "day": 1,
         "week": 3
       },
       {
@@ -297,7 +263,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures"
         ],
         "comments": "",
-        "day": 1,
         "week": 3
       },
       {
@@ -306,7 +271,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration"
         ],
         "comments": "",
-        "day": 2,
         "week": 3
       },
       {
@@ -315,14 +279,12 @@
           "https://stackoverflow.com/questions/35024593/what-does-array-length-1-mean-in-javascript"
         ],
         "comments": "",
-        "day": 2,
         "week": 3
       },
       {
         "title": "18-ZooLoop Video Walkthrough",
         "links": ["https://www.youtube.com/watch?v=zJO9g7S2_Xo"],
         "comments": "",
-        "day": 2,
         "week": 3
       },
       {
@@ -331,14 +293,12 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt"
         ],
         "comments": "",
-        "day": 2,
         "week": 3
       },
       {
         "title": "Random Numbers in JS",
         "links": ["https://www.kirupa.com/html5/random_numbers_js.htm"],
         "comments": "",
-        "day": 2,
         "week": 3
       },
       {
@@ -349,7 +309,6 @@
           "https://www.tutorialsteacher.com/javascript/javascript-function"
         ],
         "comments": "",
-        "day": 3,
         "week": 3
       },
       {
@@ -360,7 +319,6 @@
           "https://eloquentjavascript.net/04_data.html#h_cqg63Sxe3o"
         ],
         "comments": "",
-        "day": 3,
         "week": 3
       },
       {
@@ -370,7 +328,6 @@
           "https://medium.com/better-programming/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8"
         ],
         "comments": "",
-        "day": 3,
         "week": 3
       },
       {
@@ -382,7 +339,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation"
         ],
         "comments": "",
-        "day": 3,
         "week": 3
       }
     ]
@@ -473,21 +429,18 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
         ],
         "comments": "",
-        "day": 1,
         "week": 4
       },
       {
         "title": "Great Blog on DOM Traversal",
         "links": ["https://zellwk.com/blog/dom-traversals/"],
         "comments": "",
-        "day": 1,
         "week": 4
       },
       {
         "title": "Difference between childNodes and children",
         "links": ["https://stackoverflow.com/a/7935719/"],
         "comments": "",
-        "day": 1,
         "week": 4
       },
       {
@@ -496,7 +449,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById"
         ],
         "comments": "",
-        "day": 1,
         "week": 4
       },
       {
@@ -505,7 +457,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll"
         ],
         "comments": "",
-        "day": 1,
         "week": 4
       },
       {
@@ -514,14 +465,12 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector"
         ],
         "comments": "",
-        "day": 1,
         "week": 4
       },
       {
         "title": "setTimeout and setInterval",
         "links": ["https://javascript.info/settimeout-setinterval"],
         "comments": "",
-        "day": 1,
         "week": 4
       },
       {
@@ -531,7 +480,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent"
         ],
         "comments": "",
-        "day": 2,
         "week": 4
       },
       {
@@ -540,7 +488,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault"
         ],
         "comments": "",
-        "day": 2,
         "week": 4
       },
       {
@@ -549,7 +496,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation"
         ],
         "comments": "",
-        "day": 2,
         "week": 4
       },
       {
@@ -558,7 +504,6 @@
           "https://medium.com/@bretdoucette/part-4-what-is-event-delegation-in-javascript-f5c8c0de2983"
         ],
         "comments": "",
-        "day": 2,
         "week": 4
       },
       {
@@ -567,7 +512,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max#:~:text=Getting%20the%20maximum%20element%20of,%2C%20b)%20%7B%20return%20Math"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
@@ -576,7 +520,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
@@ -585,7 +528,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
@@ -594,7 +536,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
@@ -603,14 +544,12 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
         "title": "Cookies",
         "links": ["https://www.w3schools.com/js/js_cookies.asp"],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
@@ -619,7 +558,6 @@
           "https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
@@ -628,7 +566,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Element/matches"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       },
       {
@@ -637,7 +574,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice"
         ],
         "comments": "",
-        "day": 3,
         "week": 4
       }
     ]
@@ -650,42 +586,36 @@
         "title": "DOM Manipulation",
         "links": ["https://css-tricks.com/dom/"],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
         "title": "jQuery.com",
         "links": ["https://jquery.com/"],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
         "title": "jQuery ToDo’s Example",
         "links": ["http://todomvc.com/examples/jquery/#/all"],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
         "title": "jQuery DrinkList Video Review",
         "links": ["https://www.youtube.com/watch?v=9_9-NeU2L_U"],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
         "title": "jQuery Sandwich Click Video Review",
         "links": ["https://www.youtube.com/watch?v=6BLReDBUZRk"],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
         "title": "jQuery Lottery Generator Video Review",
         "links": ["https://www.youtube.com/watch?v=Nh4wxhzePIs"],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
@@ -694,7 +624,6 @@
           "https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/"
         ],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
@@ -706,7 +635,6 @@
           "https://www.oreilly.com/library/view/javascript-cookbook/9781449390211/ch04.html"
         ],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
@@ -716,7 +644,6 @@
           "https://api.jquery.com/ready/"
         ],
         "comments": "",
-        "day": 1,
         "week": 5
       },
       {
@@ -725,14 +652,12 @@
           "https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/"
         ],
         "comments": "",
-        "day": 2,
         "week": 5
       },
       {
         "title": "Great explanation of why Scope 2’s inner function logs the window",
         "links": ["https://stackoverflow.com/a/15487162/2112423"],
         "comments": "",
-        "day": 2,
         "week": 5
       },
       {
@@ -741,7 +666,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
         ],
         "comments": "",
-        "day": 2,
         "week": 5
       }
     ]
@@ -756,63 +680,54 @@
           "https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en"
         ],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "RapidAPI Library",
         "links": ["https://rapidapi.com/"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "OMDb API",
         "links": ["http://www.omdbapi.com/"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "GIPHY SDK",
         "links": ["https://developers.giphy.com/docs/sdk/"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "NYT Scraper",
         "links": ["http://nyt-mongo-scraper.herokuapp.com/"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "Numbers API",
         "links": ["https://rapidapi.com/divad12/api/numbers-1"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "Face++",
         "links": ["https://www.faceplusplus.com/face-detection/"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "Pokemon API",
         "links": ["https://pokeapi.co/"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "OpenWeather API",
         "links": ["https://openweathermap.org/api"],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
@@ -822,35 +737,30 @@
           "https://www.sitepoint.com/use-jquerys-ajax-function/"
         ],
         "comments": "",
-        "day": 1,
         "week": 6
       },
       {
         "title": "NY Times Article Search",
         "links": ["https://nytarticle-search-fsf.herokuapp.com/"],
         "comments": "",
-        "day": 3,
         "week": 6
       },
       {
         "title": "AJAX Triggered by Buttons Video Walkthrough Review",
         "links": ["https://www.youtube.com/watch?v=K1JDUkF94cs"],
         "comments": "",
-        "day": 3,
         "week": 6
       },
       {
         "title": "NYT API Signup",
         "links": ["https://developer.nytimes.com/signup"],
         "comments": "",
-        "day": 3,
         "week": 6
       },
       {
         "title": "NY Times Article App Video Walkthrough Review",
         "links": ["https://www.youtube.com/watch?v=QiIlhmeGYuk"],
         "comments": "",
-        "day": 3,
         "week": 6
       }
     ]
@@ -863,21 +773,18 @@
         "title": "Git Collaboration Workflow (Follow these steps to minimize conflicts!)",
         "links": ["https://github.com/scwebd/git-collaboration-workflow"],
         "comments": "",
-        "day": 1,
         "weeK": 7
       },
       {
         "title": "Learn Git Branching through Visualizations",
         "links": ["https://learngitbranching.js.org/"],
         "comments": "",
-        "day": 1,
         "weeK": 7
       },
       {
         "title": "Undoing Commits & Changes in Git",
         "links": ["https://www.atlassian.com/git/tutorials/undoing-changes"],
         "comments": "",
-        "day": 1,
         "weeK": 7
       }
     ]
@@ -899,14 +806,12 @@
         "title": "NodeJS Install",
         "links": ["https://nodejs.org/en/"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "process.argv",
         "links": ["https://nodejs.org/api/process.html#process_process_argv"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
@@ -915,7 +820,6 @@
           "https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback"
         ],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
@@ -924,14 +828,12 @@
           "https://stackabuse.com/writing-to-files-in-node-js/#:~:text=place%20of%20fs.-,writeFile%20.,while%20the%20file%20is%20written."
         ],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "Character Encoding",
         "links": ["https://en.wikipedia.org/wiki/Character_encoding"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
@@ -940,21 +842,18 @@
           "https://nodejs.org/api/fs.html#fs_fs_appendfile_path_data_options_callback"
         ],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "Node source code for fs",
         "links": ["https://github.com/nodejs/node/blob/master/lib/fs.js"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "module.exports documentation",
         "links": ["https://nodejs.org/api/modules.html#modules_module_exports"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
@@ -963,56 +862,48 @@
           "https://www.sitepoint.com/understanding-module-exports-exports-node-js/"
         ],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "npmjs.org",
         "links": ["https://www.npmjs.com/"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "NPM About Page ",
         "links": ["https://docs.npmjs.com/about-npm/"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "Open Source Initiative",
         "links": ["https://opensource.org/licenses/ISC"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "Github licensing page",
         "links": ["https://help.github.com/en/articles/licensing-a-repository"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "NPM Docs for creating a package.json file",
         "links": ["https://docs.npmjs.com/creating-a-package-json-file"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "NPM Install Documentation",
         "links": ["https://docs.npmjs.com/cli/install"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
         "title": "NPM Inquirer Documentation",
         "links": ["https://www.npmjs.com/package/inquirer"],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
@@ -1021,7 +912,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify"
         ],
         "comments": "",
-        "day": 1,
         "week": 9
       },
       {
@@ -1030,7 +920,6 @@
           "https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
@@ -1039,7 +928,6 @@
           "https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
@@ -1048,7 +936,6 @@
           "https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
@@ -1057,7 +944,6 @@
           "https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
@@ -1066,7 +952,6 @@
           "https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
@@ -1075,7 +960,6 @@
           "https://blog.usejournal.com/mastering-javascripts-and-logical-operators-fd619b905c8f"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
@@ -1084,7 +968,6 @@
           "https://atendesigngroup.com/blog/array-map-filter-and-reduce-js"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
@@ -1093,21 +976,18 @@
           "https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3"
         ],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
         "title": "A Dead Simple intro to Destructuring JavaScript Objects:",
         "links": ["https://wesbos.com/destructuring-objects/"],
         "comments": "",
-        "day": 2,
         "week": 9
       },
       {
         "title": "axios npm",
         "links": ["https://www.npmjs.com/package/axios"],
         "comments": "",
-        "day": 3,
         "week": 9
       },
       {
@@ -1116,94 +996,12 @@
           "https://www.newline.co/@AoX04/axios-js-and-nodejs-a-match-made-in-heaven-for-api-consumption--bf0618b1"
         ],
         "comments": "",
-        "day": 3,
         "week": 9
       },
       {
         "title": "node-axios",
         "links": ["https://flaviocopes.com/node-axios/"],
         "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "Promises MDN",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
-        ],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "Promise Constructor MDN",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise"
-        ],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "A Complete Guide on How to Use Promises in JavaScript",
-        "links": [
-          "https://levelup.gitconnected.com/how-to-use-promises-in-javascript-real-time-24332f4f3f6f"
-        ],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "Master the JavaScript Interview: What is a Promise?",
-        "links": [
-          "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261"
-        ],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "JS Promises",
-        "links": [
-          "https://scotch.io/tutorials/javascript-promises-for-dummies"
-        ],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-
-      {
-        "title": "Async/Await",
-        "links": ["https://javascript.info/async-await"],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "6 Reasons Why JavaScript Async/Await Blows Promises Away (Tutorial)",
-        "links": [
-          "https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9"
-        ],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "Async/Await Cheatsheet",
-        "links": [
-          "https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet"
-        ],
-        "comments": "",
-        "day": 3,
-        "week": 9
-      },
-      {
-        "title": "Mastering Async Await in Node.js",
-        "links": [
-          "https://blog.risingstack.com/mastering-async-await-in-nodejs/"
-        ],
-        "comments": "",
-        "day": 3,
         "week": 9
       }
     ]
@@ -1220,7 +1018,6 @@
           "https://www.youtube.com/watch?v=23AOrSN-wmI"
         ],
         "comments": "",
-        "day": 1,
         "week": 10
       },
       {
@@ -1231,7 +1028,6 @@
           "https://www.youtube.com/watch?v=hS_WqkyUah8"
         ],
         "comments": "",
-        "day": 1,
         "week": 10
       },
       {
@@ -1240,7 +1036,77 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters"
         ],
         "comments": "",
-        "day": 2,
+        "week": 10
+      },
+      {
+        "title": "Promises MDN",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
+        ],
+        "comments": "",
+        "week": 10
+      },
+      {
+        "title": "Promise Constructor MDN",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise"
+        ],
+        "comments": "",
+        "week": 10
+      },
+      {
+        "title": "A Complete Guide on How to Use Promises in JavaScript",
+        "links": [
+          "https://levelup.gitconnected.com/how-to-use-promises-in-javascript-real-time-24332f4f3f6f"
+        ],
+        "comments": "",
+        "week": 10
+      },
+      {
+        "title": "Master the JavaScript Interview: What is a Promise?",
+        "links": [
+          "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261"
+        ],
+        "comments": "",
+        "week": 10
+      },
+      {
+        "title": "JS Promises",
+        "links": [
+          "https://scotch.io/tutorials/javascript-promises-for-dummies"
+        ],
+        "comments": "",
+        "week": 10
+      },
+
+      {
+        "title": "Async/Await",
+        "links": ["https://javascript.info/async-await"],
+        "comments": "",
+        "week": 10
+      },
+      {
+        "title": "6 Reasons Why JavaScript Async/Await Blows Promises Away (Tutorial)",
+        "links": [
+          "https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9"
+        ],
+        "comments": "",
+        "week": 10
+      },
+      {
+        "title": "Async/Await Cheatsheet",
+        "links": [
+          "https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet"
+        ],
+        "comments": "",
+        "week": 10
+      },
+      {
+        "title": "Mastering Async Await in Node.js",
+        "links": [
+          "https://blog.risingstack.com/mastering-async-await-in-nodejs/"
+        ],
+        "comments": "",
         "week": 10
       },
       {
@@ -1253,7 +1119,6 @@
           "https://www.w3resource.com/jest/introduction.php"
         ],
         "comments": "",
-        "day": 2,
         "week": 10
       },
       {
@@ -1262,7 +1127,6 @@
           "https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80"
         ],
         "comments": "",
-        "day": 2,
         "week": 10
       },
       {
@@ -1271,7 +1135,6 @@
           "https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c"
         ],
         "comments": "",
-        "day": 2,
         "week": 10
       },
       {
@@ -1283,7 +1146,6 @@
           "https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80"
         ],
         "comments": "",
-        "day": 2,
         "week": 10
       },
       {
@@ -1294,7 +1156,6 @@
           "https://dmitripavlutin.com/javascript-classes-complete-guide/"
         ],
         "comments": "",
-        "day": 3,
         "week": 10
       },
       {
@@ -1303,7 +1164,6 @@
           "https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up"
         ],
         "comments": "",
-        "day": 3,
         "week": 10
       }
     ]
@@ -1316,7 +1176,6 @@
         "title": "http",
         "links": ["https://nodejs.org/docs/latest-v12.x/api/http.html"],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
@@ -1325,7 +1184,6 @@
           "https://nodejs.org/api/http.html#http_http_createserver_options_requestlistener"
         ],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
@@ -1334,7 +1192,6 @@
           "https://nodejs.org/api/http.html#http_response_writehead_statuscode_statusmessage_headers"
         ],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
@@ -1343,7 +1200,6 @@
           "https://nodejs.org/api/http.html#http_response_end_data_encoding_callback"
         ],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
@@ -1352,7 +1208,6 @@
           "https://stackoverflow.com/questions/29555290/what-is-the-difference-between-res-end-and-res-send/49242271#49242271"
         ],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
@@ -1361,28 +1216,24 @@
           "https://nodejs.org/docs/latest-v12.x/api/modules.html#modules_dirname"
         ],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
         "title": "Postman",
         "links": ["https://www.postman.com/downloads/"],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
         "title": "Heroku CLI",
         "links": ["https://devcenter.heroku.com/articles/heroku-cli"],
         "comments": "",
-        "day": 1,
         "week": 11
       },
       {
         "title": "Star Wars Express Video Walkthrough",
         "links": ["https://youtu.be/ygk-kNstqK0"],
         "comments": "",
-        "day": 2,
         "week": 11
       },
       {
@@ -1391,21 +1242,18 @@
           "https://du.bootcampcontent.com/denver-coding-bootcamp/DU-DEN-FSF-PT-06-2020-U-C/blob/master/11-express/04-Supplemental/HerokuGuide.md"
         ],
         "comments": "",
-        "day": 2,
         "week": 11
       },
       {
         "title": "Example Star Wars App",
         "links": ["https://starwars-express-fsf.herokuapp.com/"],
         "comments": "",
-        "day": 2,
         "week": 11
       },
       {
         "title": "30 Seconds of Interviews",
         "links": ["https://30secondsofinterviews.org/"],
         "comments": "",
-        "day": 3,
         "week": 11
       },
       {
@@ -1414,7 +1262,6 @@
           "https://scotch.io/tutorials/use-expressjs-to-get-url-and-post-parameters"
         ],
         "comments": "",
-        "day": 3,
         "week": 11
       },
       {
@@ -1423,14 +1270,12 @@
           "https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4"
         ],
         "comments": "",
-        "day": 3,
         "week": 11
       },
       {
         "title": "Hot Restaurant App",
         "links": ["http://hot-restaurant.herokuapp.com/"],
         "comments": "",
-        "day": 3,
         "week": 11
       },
       {
@@ -1439,14 +1284,12 @@
           "https://youtu.be/G7RvQMW2DOg?list=PLgJ8UgkiorCmI_wKKVt5FlkTG63sQF6rr"
         ],
         "comments": "",
-        "day": 3,
         "week": 11
       },
       {
         "title": "Express Router",
         "links": ["https://expressjs.com/en/guide/routing.html#express-router"],
         "comments": "",
-        "day": 3,
         "week": 11
       },
       {
@@ -1455,7 +1298,6 @@
           "https://chevtek.io/an-intuitive-way-to-organize-your-expressjs-routes/"
         ],
         "comments": "",
-        "day": 3,
         "week": 11
       }
     ]
@@ -1468,28 +1310,24 @@
         "title": "mysql tutorial site",
         "links": ["https://www.mysqltutorial.org/basic-mysql-tutorial.aspx"],
         "comments": "",
-        "day": 1,
         "week": 12
       },
       {
         "title": "mysql w3schools",
         "links": ["https://www.w3schools.com/sql/default.asp"],
         "comments": "",
-        "day": 1,
         "week": 12
       },
       {
         "title": "mysql cli tutorial",
         "links": ["https://dev.mysql.com/doc/refman/8.0/en/tutorial.html"],
         "comments": "",
-        "day": 1,
         "week": 12
       },
       {
         "title": "mysql npm package",
         "links": ["https://www.npmjs.com/package/mysql"],
         "comments": "",
-        "day": 2,
         "week": 12
       },
       {
@@ -1498,14 +1336,12 @@
           "https://stackoverflow.com/questions/25344661/what-is-the-difference-between-mysql-mysql2-considering-nodejs#:~:text=The%20only%20difference%20is%20that,seen%20any%20data%20for%20that"
         ],
         "comments": "",
-        "day": 2,
         "week": 12
       },
       {
         "title": "npm mysql - Performing queries",
         "links": ["https://github.com/mysqljs/mysql#performing-queries"],
         "comments": "",
-        "day": 2,
         "week": 12
       },
       {
@@ -1514,7 +1350,6 @@
           "https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-table.html"
         ],
         "comments": "",
-        "day": 3,
         "week": 12
       },
       {
@@ -1523,21 +1358,18 @@
           "https://www.freecodecamp.org/news/sql-group-by-clauses-explained/amp/"
         ],
         "comments": "",
-        "day": 3,
         "week": 12
       },
       {
         "title": "Indexes",
         "links": ["https://atech.blog/viaduct/mysql-indexes-primer"],
         "comments": "",
-        "day": 3,
         "week": 12
       },
       {
         "title": "SQL Joins (Stolen from Cat :) Thanks Cat!",
         "links": ["https://youtu.be/9yeOJ0ZMUYw"],
         "comments": "",
-        "day": 3,
         "week": 12
       }
     ]
@@ -1550,14 +1382,12 @@
         "title": "handlebarsjs",
         "links": ["https://handlebarsjs.com/"],
         "comments": "",
-        "day": 2,
         "week": 13
       },
       {
         "title": "Express Handlebars",
         "links": ["https://www.npmjs.com/package/express-handlebars"],
         "comments": "",
-        "day": 2,
         "week": 13
       },
       {
@@ -1567,7 +1397,6 @@
           "https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/"
         ],
         "comments": "",
-        "day": 2,
         "week": 13
       },
       {
@@ -1579,7 +1408,6 @@
           "https://www.sitepoint.com/mvc-design-pattern-javascript/"
         ],
         "comments": "",
-        "day": 2,
         "week": 13
       },
       {
@@ -1590,7 +1418,6 @@
           "https://stackoverflow.com/a/1279678"
         ],
         "comments": "",
-        "day": 2,
         "week": 13
       },
       {
@@ -1599,14 +1426,12 @@
           "https://www.tutorialspoint.com/ruby-on-rails/rails-directory-structure.htm"
         ],
         "comments": "",
-        "day": 2,
         "week": 13
       },
       {
         "title": "SQL Injection",
         "links": ["https://en.wikipedia.org/wiki/SQL_injection"],
         "comments": "",
-        "day": 2,
         "week": 13
       }
     ]
@@ -1619,7 +1444,6 @@
         "title": "SEQUELIZE",
         "links": ["https://sequelize.org/master/index.html"],
         "comments": "",
-        "day": 1,
         "week": 14
       },
       {
@@ -1629,7 +1453,6 @@
           "https://www.npmjs.com/package/sequelize-cli"
         ],
         "comments": "",
-        "day": 1,
         "week": 14
       },
       {
@@ -1638,7 +1461,6 @@
           "https://sequelize.readthedocs.io/en/2.0/docs/querying/#operators"
         ],
         "comments": "",
-        "day": 1,
         "week": 14
       },
       {
@@ -1653,7 +1475,6 @@
           "https://sequelize.org/master/manual/validations-and-constraints.html"
         ],
         "comments": "",
-        "day": 2,
         "week": 14
       },
       {
@@ -1662,7 +1483,6 @@
           "http://docs.sequelizejs.com/manual/tutorial/models-definition.html#data-types"
         ],
         "comments": "",
-        "day": 3,
         "week": 14
       },
       {
@@ -1671,7 +1491,6 @@
           "https://github.com/sequelize/express-example/blob/legacy/models/task.js"
         ],
         "comments": "",
-        "day": 3,
         "week": 14
       },
       {
@@ -1680,28 +1499,24 @@
           "https://github.com/sequelize/express-example/blob/legacy/models/user.js"
         ],
         "comments": "",
-        "day": 3,
         "week": 14
       },
       {
         "title": "Sequelize Additional Associations",
         "links": ["https://sequelize.org/master/manual/assocs.html"],
         "comments": "",
-        "day": 3,
         "week": 14
       },
       {
         "title": "Sequelize Eager Loading (Used for Joins)",
         "links": ["https://sequelize.org/master/manual/eager-loading.html"],
         "comments": "",
-        "day": 3,
         "week": 14
       },
       {
         "title": "MySQL Left Outer Join",
         "links": ["https://www.w3schools.com/sql/sql_join_left.asp"],
         "comments": "",
-        "day": 3,
         "week": 14
       }
     ]
@@ -1716,28 +1531,24 @@
           "https://youtu.be/GgNcs9zlFSA?list=PLOFmg4xbN_TPrB6w4rThsFanVxJI_SfER"
         ],
         "comments": "",
-        "day": 1,
         "week": 15
       },
       {
         "title": "ESLINT",
         "links": ["https://eslint.org/"],
         "comments": "",
-        "day": 1,
         "week": 15
       },
       {
         "title": "Travis CI",
         "links": ["https://travis-ci.org/"],
         "comments": "",
-        "day": 1,
         "week": 15
       },
       {
         "title": "Github Actions",
         "links": ["https://github.com/features/actions"],
         "comments": "",
-        "day": 1,
         "week": 15
       }
     ]
@@ -1759,7 +1570,6 @@
         "title": "Mongojs Operators",
         "links": ["https://docs.mongodb.com/manual/reference/operator/"],
         "comments": "",
-        "day": 1,
         "week": 17
       },
       {
@@ -1769,42 +1579,36 @@
           "https://cheatography.com/isaeus/cheat-sheets/mongodb/pdf/"
         ],
         "comments": "",
-        "day": 1,
         "week": 17
       },
       {
         "title": "Mongoose",
         "links": ["https://mongoosejs.com "],
         "comments": "",
-        "day": 2,
         "week": 17
       },
       {
         "title": "Potential Mongoose Depreciation Information",
         "links": ["https://mongoosejs.com/docs/deprecations.html"],
         "comments": "",
-        "day": 2,
         "week": 17
       },
       {
         "title": "Mongoose Validations",
         "links": ["https://mongoosejs.com/docs/validation.html"],
         "comments": "",
-        "day": 2,
         "week": 17
       },
       {
         "title": "Mongoose Instance Methods",
         "links": ["https://mongoosejs.com/docs/guide.html#methods"],
         "comments": "",
-        "day": 2,
         "week": 17
       },
       {
         "title": "Mongoose Populate",
         "links": ["https://mongoosejs.com/docs/populate.html"],
         "comments": "",
-        "day": 2,
         "week": 17
       },
       {
@@ -1813,7 +1617,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1822,7 +1625,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory/open"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1831,7 +1633,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/keyPath"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1840,7 +1641,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/createIndex"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1849,7 +1649,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBDatabase/createObjectStore"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1858,7 +1657,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/autoIncrement"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1867,7 +1665,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/add"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1876,7 +1673,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/get"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1885,7 +1681,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/getAll"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1894,7 +1689,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBDatabase/transaction"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1903,7 +1697,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/index"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1912,7 +1705,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/openCursor"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1921,7 +1713,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor/update"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1930,7 +1721,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor/continue"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       },
       {
@@ -1939,7 +1729,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/clear"
         ],
         "comments": "",
-        "day": 3,
         "week": 17
       }
     ]
@@ -1952,35 +1741,30 @@
         "title": "Lighthouse",
         "links": ["https://developers.google.com/web/tools/lighthouse/"],
         "comments": "",
-        "day": 1,
         "week": 18
       },
       {
         "title": "Our example gallery app",
         "links": ["https://ancient-brushlands-76706.herokuapp.com/"],
         "comments": "",
-        "day": 1,
         "week": 18
       },
       {
         "title": "JSCompress",
         "links": ["https://jscompress.com/"],
         "comments": "",
-        "day": 1,
         "week": 18
       },
       {
         "title": "Compression NPM",
         "links": ["https://www.npmjs.com/package/compression"],
         "comments": "",
-        "day": 1,
         "week": 18
       },
       {
         "title": "Tiny PNG",
         "links": ["https://tinypng.com/"],
         "comments": "",
-        "day": 1,
         "week": 18
       },
       {
@@ -1989,7 +1773,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Loading"
         ],
         "comments": "",
-        "day": 1,
         "week": 18
       },
       {
@@ -1999,7 +1782,6 @@
           "https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes"
         ],
         "comments": "",
-        "day": 1,
         "week": 18
       },
       {
@@ -2008,7 +1790,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers"
         ],
         "comments": "",
-        "day": 2,
         "week": 18
       },
       {
@@ -2017,28 +1798,24 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage/open"
         ],
         "comments": "",
-        "day": 2,
         "week": 18
       },
       {
         "title": "Web Manifest",
         "links": ["https://developer.mozilla.org/en-US/docs/Web/Manifest"],
         "comments": "",
-        "day": 2,
         "week": 18
       },
       {
         "title": "Great overview of PWA’s",
         "links": ["https://web.dev/progressive-web-apps/"],
         "comments": "",
-        "day": 2,
         "week": 18
       },
       {
         "title": "PWABuilder open sourced from Microsoft",
         "links": ["https://www.pwabuilder.com/"],
         "comments": "",
-        "day": 2,
         "week": 18
       },
       {
@@ -2047,21 +1824,18 @@
           "https://www.digitalocean.com/community/tutorials/demystifying-the-service-worker-lifecycle"
         ],
         "comments": "",
-        "day": 2,
         "week": 18
       },
       {
         "title": "Webpack Concepts",
         "links": ["https://webpack.js.org/concepts/"],
         "comments": "",
-        "day": 3,
         "week": 18
       },
       {
         "title": "Why Webpack",
         "links": ["https://webpack.js.org/concepts/why-webpack/"],
         "comments": "",
-        "day": 3,
         "week": 18
       }
     ]
@@ -2074,21 +1848,18 @@
         "title": "Create React App",
         "links": ["https://reactjs.org/docs/create-a-new-react-app.html"],
         "comments": "",
-        "day": 1,
         "week": 19
       },
       {
         "title": "Hello World",
         "links": ["https://facebook.github.io/react/docs/hello-world.html"],
         "comments": "",
-        "day": 1,
         "week": 19
       },
       {
         "title": "Introducing JSX",
         "links": ["https://facebook.github.io/react/docs/introducing-jsx.html"],
         "comments": "",
-        "day": 1,
         "week": 19
       },
       {
@@ -2097,7 +1868,6 @@
           "https://facebook.github.io/react/docs/rendering-elements.html"
         ],
         "comments": "",
-        "day": 1,
         "week": 19
       },
       {
@@ -2106,21 +1876,18 @@
           "https://facebook.github.io/react/docs/components-and-props.html"
         ],
         "comments": "",
-        "day": 1,
         "week": 19
       },
       {
         "title": "State and Lifecycle",
         "links": ["https://reactjs.org/docs/state-and-lifecycle.html"],
         "comments": "",
-        "day": 2,
         "week": 19
       },
       {
         "title": "Handling Events",
         "links": ["https://reactjs.org/docs/handling-events.html"],
         "comments": "",
-        "day": 2,
         "week": 19
       },
       {
@@ -2129,7 +1896,6 @@
           "https://facebook.github.io/react/docs/lifting-state-up.html"
         ],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
@@ -2138,7 +1904,6 @@
           "https://facebook.github.io/react/docs/uncontrolled-components.html"
         ],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
@@ -2147,7 +1912,6 @@
           "https://blog.bitsrc.io/react-controlled-vs-uncontrolled-components-f569f4215ac9"
         ],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
@@ -2156,7 +1920,6 @@
           "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0"
         ],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
@@ -2165,21 +1928,18 @@
           "https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1"
         ],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
         "title": "Two Really nice React Form Libraries",
         "links": ["https://react-hook-form.com/"],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
         "title": "formik",
         "links": ["https://formik.org/"],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
@@ -2188,7 +1948,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Computed_property_names"
         ],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
@@ -2197,21 +1956,18 @@
           "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
         ],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
         "title": "Conditional Rendering",
         "links": ["https://reactjs.org/docs/conditional-rendering.html"],
         "comments": "",
-        "day": 3,
         "week": 19
       },
       {
         "title": "React Router",
         "links": ["https://reactrouter.com/"],
         "comments": "",
-        "day": 3,
         "week": 19
       }
     ]
@@ -2224,14 +1980,12 @@
         "title": "React Hooks Docs",
         "links": ["https://reactjs.org/docs/hooks-intro.html"],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
         "title": "A Complete Guide to useEffect()",
         "links": ["https://overreacted.io/a-complete-guide-to-useeffect/"],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2240,7 +1994,6 @@
           "https://dev.to/prototyp/react-useeffect-explained-with-lifecycle-methods-296n"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2249,21 +2002,18 @@
           "https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
         "title": "How to Solve the Infinite Loop of React.useEffect()",
         "links": ["https://dmitripavlutin.com/react-useeffect-infinite-loop/"],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
         "title": "List of React Hooks",
         "links": ["https://nikgraf.github.io/react-hooks/"],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2272,7 +2022,6 @@
           "https://www.youtube.com/watch?v=_l1cwxBLhBY&feature=youtu.be"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
 
@@ -2280,7 +2029,6 @@
         "title": "A Visual Guide to State in React",
         "links": ["https://daveceddia.com/visual-guide-to-state-in-react/"],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2289,7 +2037,6 @@
           "https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2298,7 +2045,6 @@
           "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2307,7 +2053,6 @@
           "https://stackoverflow.com/questions/20377837/how-to-access-custom-attributes-from-event-object-in-react/20383295#20383295"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2316,7 +2061,6 @@
           "https://www.freecodecamp.org/news/hitchhikers-guide-to-react-router-v4-4b12e369d10/"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2325,7 +2069,6 @@
           "https://tylermcginnis.com/react-router-pass-props-to-components/"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
@@ -2334,49 +2077,42 @@
           "https://create-react-app.dev/docs/making-a-progressive-web-app"
         ],
         "comments": "",
-        "day": 1,
         "week": 20
       },
       {
         "title": "React Context API ",
         "links": ["https://reactjs.org/docs/context.html"],
         "comments": "",
-        "day": 2,
         "week": 20
       },
       {
         "title": "React useContext",
         "links": ["https://reactjs.org/docs/hooks-reference.html#usecontext"],
         "comments": "",
-        "day": 2,
         "week": 20
       },
       {
         "title": "useReducer",
         "links": ["https://reactjs.org/docs/hooks-reference.html#usereducer"],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
         "title": "useRef",
         "links": ["https://reactjs.org/docs/hooks-reference.html#useref"],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
         "title": "Redux",
         "links": ["https://redux.js.org/"],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
         "title": "3 Rules of React State Managment",
         "links": ["https://dmitripavlutin.com/react-state-management/"],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
@@ -2385,21 +2121,18 @@
           "https://tsh.io/blog/react-state-management-react-hooks-vs-redux/"
         ],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
         "title": "Styled Components",
         "links": ["https://styled-components.com/"],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
         "title": "One Line CSS Layouts",
         "links": ["https://web.dev/one-line-layouts/"],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
@@ -2408,14 +2141,12 @@
           "https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url"
         ],
         "comments": "",
-        "day": 3,
         "week": 20
       },
       {
         "title": "WebGradients",
         "links": ["https://webgradients.com/"],
         "comments": "",
-        "day": 3,
         "week": 20
       }
     ]
@@ -2428,7 +2159,6 @@
         "title": "Food Lookup Demo",
         "links": ["https://github.com/fullstackreact/food-lookup-demo"],
         "comments": "",
-        "day": 1,
         "week": 21
       }
     ]
@@ -2441,14 +2171,12 @@
         "title": "Binary and Linear Search Example",
         "links": ["https://www.cs.usfca.edu/~galles/visualization/Search.html"],
         "comments": "",
-        "day": 1,
         "week": 22
       },
       {
         "title": "VisualGo",
         "links": ["http://visualgo.net/"],
         "comments": "",
-        "day": 1,
         "week": 22
       },
       {
@@ -2457,28 +2185,24 @@
           "https://coding-bootcamp-whiteboarding-algorithms.readthedocs-hosted.com/en/latest/"
         ],
         "comments": "",
-        "day": 1,
         "week": 22
       },
       {
         "title": "VisualGo Sorting",
         "links": ["https://visualgo.net/en/sorting"],
         "comments": "",
-        "day": 2,
         "week": 22
       },
       {
         "title": "Topal.com Sorting Algorithms Visual",
         "links": ["https://www.toptal.com/developers/sorting-algorithms"],
         "comments": "",
-        "day": 2,
         "week": 22
       },
       {
         "title": "lodash.com",
         "links": ["https://lodash.com/"],
         "comments": "",
-        "day": 2,
         "week": 22
       }
     ]
@@ -2491,14 +2215,12 @@
         "title": "useAuth with Auth0 (front-end auth) ",
         "links": ["https://github.com/Swizec/useAuth"],
         "comments": "",
-        "day": 1,
         "week": 23
       },
       {
         "title": "React Hooks back-end Local Passport Auth",
         "links": ["https://github.com/jaymascarenas/react-auth-hooks"],
         "comments": "",
-        "day": 1,
         "week": 23
       },
       {
@@ -2507,7 +2229,6 @@
           "https://medium.com/better-programming/building-basic-react-authentication-e20a574d5e71"
         ],
         "comments": "",
-        "day": 1,
         "week": 23
       }
     ]
@@ -2529,126 +2250,108 @@
         "title": "JamStack",
         "links": ["https://jamstack.org/"],
         "comments": "",
-        "day": 1,
         "week": 24
       },
       {
         "title": "GraphQl",
         "links": ["https://graphql.org/"],
         "comments": "",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Netlify",
         "links": ["https://www.netlify.com/"],
         "comments": " Great hosting site for jamstack apps. Blows GitHub pages OUT of the water",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Cloudinary",
         "links": ["https://cloudinary.com/"],
         "comments": "Great platform and API to store images for use on your sites. ",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Begin",
         "links": ["https://begin.com/"],
         "comments": " A newer serverless jamstack platform with some great cloud services ",
-        "day": 1,
         "week": 24
       },
       {
         "title": "vercel",
         "links": ["https://vercel.com/"],
         "comments": " Rock solid serverless platform with effortless serverless functions",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Fauna",
         "links": ["https://fauna.com/"],
         "comments": " Cloud based noSQL database with a built in GraphQL API",
-        "day": 1,
         "week": 24
       },
       {
         "title": "NextJS",
         "links": ["https://nextjs.org/"],
         "comments": " Server Side React!!! WHOA! Super hot full stack framework built on today’s tech",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Mongodb Stitch",
         "links": ["https://www.mongodb.com/cloud/stitch"],
         "comments": " MongoDB’s server less platform with a graphQL API ",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Digital Ocean",
         "links": ["https://www.digitalocean.com/"],
         "comments": " Low cost server platform for hosting node apps for about 5 bucks a month",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Hasura",
         "links": ["https://hasura.io/"],
         "comments": " Realtime GraphQL APi",
-        "day": 1,
         "week": 24
       },
       {
         "title": "RedwoodJS",
         "links": ["https://redwoodjs.com/"],
         "comments": " Full-Stack in the JamStack world!! Brand new and very interesting",
-        "day": 1,
         "week": 24
       },
       {
         "title": "jsonbox",
         "links": ["https://jsonbox.io/"],
         "comments": " Super quick BSON storage for testing before actually spinning up a Mongo DB",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Userbase",
         "links": ["https://userbase.com/"],
         "comments": " Create secure and private web apps using only static JavaScript, HTML, and CSS.",
-        "day": 1,
         "week": 24
       },
       {
         "title": "takeshape",
         "links": ["https://www.takeshape.io/"],
         "comments": " A CMS for JamStack",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Glitch",
         "links": ["https://glitch.com/ "],
         "comments": "",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Whimsical",
         "links": ["https://whimsical.com/"],
         "comments": " A visual workplace",
-        "day": 1,
         "week": 24
       },
       {
         "title": "Framer Motion",
         "links": ["https://www.framer.com/motion/"],
         "comments": " React Animation Library — VERY COOL",
-        "day": 1,
         "week": 24
       }
     ]

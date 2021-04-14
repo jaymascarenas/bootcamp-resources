@@ -78,7 +78,7 @@ const Content = () => {
           {value.resources &&
             value.resources.map((items) => (
               <div key={items.title}>
-                <strong>{items.title}</strong> - Day {items.day}
+                <strong>{items.title}</strong>
                 <ul>
                   {items.links &&
                     items.links.map((link) => (

@@ -34,7 +34,7 @@ const Results = ({ results }) => {
       {results.length > 0 &&
         results.map((items) => (
           <h4 className="card" key={items.title}>
-            <strong>{items.title}</strong> - Week {items.week} Day {items.day}
+            <strong>{items.title}</strong> - Week {items.week}
             <div>
               {items.links &&
                 items.links.map((link) => (
