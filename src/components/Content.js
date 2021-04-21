@@ -72,7 +72,7 @@ const Content = () => {
       <Results results={searchResults} />
       {modules.map((value) => (
         <div key={value.module}>
-          <h2>
+          <h2 id={`week-${value.week}`}>
             {value.module} - Week {value.week}
           </h2>
           {value.resources &&
