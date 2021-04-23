@@ -1299,6 +1299,14 @@
         ],
         "comments": "",
         "week": 11
+      },
+      {
+        "title": "How to Kill Stuck Ports via CLI",
+        "links": [
+          "https://www.npmjs.com/package/kill-port"
+        ],
+        "comments": "Install the CLI version globally for global use.",
+        "week": 11
       }
     ]
   },
