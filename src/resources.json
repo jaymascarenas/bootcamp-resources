@@ -1383,76 +1383,14 @@
     ]
   },
   {
-    "module": "Unit 13: MVC",
+    "module": "Unit 13: Object-Relational Mapping (ORM)",
     "week": 13,
-    "resources": [
-      {
-        "title": "handlebarsjs",
-        "links": ["https://handlebarsjs.com/"],
-        "comments": "",
-        "week": 13
-      },
-      {
-        "title": "Express Handlebars",
-        "links": ["https://www.npmjs.com/package/express-handlebars"],
-        "comments": "",
-        "week": 13
-      },
-      {
-        "title": "REST API",
-        "links": [
-          "http://www.restapitutorial.com/lessons/whatisrest.html",
-          "https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/"
-        ],
-        "comments": "",
-        "week": 13
-      },
-      {
-        "title": "MVC",
-        "links": [
-          "https://www.educba.com/what-is-mvc-design-pattern/",
-          "https://www.tutorialsteacher.com/mvc/mvc-architecture#:~:text=MVC%20stands%20for%20Model%2C%20View,data%20retrieved%20from%20the%20database",
-          "https://alistapart.com/article/javascript-mvc/",
-          "https://www.sitepoint.com/mvc-design-pattern-javascript/"
-        ],
-        "comments": "",
-        "week": 13
-      },
-      {
-        "title": "ORM",
-        "links": [
-          "https://www.youtube.com/watch?v=dHQ-I7kr_SY",
-          "https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a",
-          "https://stackoverflow.com/a/1279678"
-        ],
-        "comments": "",
-        "week": 13
-      },
-      {
-        "title": "Ruby on Rails Directory Structure (Similar to what we learned today)",
-        "links": [
-          "https://www.tutorialspoint.com/ruby-on-rails/rails-directory-structure.htm"
-        ],
-        "comments": "",
-        "week": 13
-      },
-      {
-        "title": "SQL Injection",
-        "links": ["https://en.wikipedia.org/wiki/SQL_injection"],
-        "comments": "",
-        "week": 13
-      }
-    ]
-  },
-  {
-    "module": "Unit 14: Full-Stack",
-    "week": 14,
     "resources": [
       {
         "title": "SEQUELIZE",
         "links": ["https://sequelize.org/master/index.html"],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize CLI",
@@ -1461,7 +1399,7 @@
           "https://www.npmjs.com/package/sequelize-cli"
         ],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize Operators",
@@ -1469,7 +1407,7 @@
           "https://sequelize.readthedocs.io/en/2.0/docs/querying/#operators"
         ],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize",
@@ -1483,7 +1421,7 @@
           "https://sequelize.org/master/manual/validations-and-constraints.html"
         ],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize Model Types ",
@@ -1491,7 +1429,7 @@
           "http://docs.sequelizejs.com/manual/tutorial/models-definition.html#data-types"
         ],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize belongsTo example",
@@ -1499,7 +1437,7 @@
           "https://github.com/sequelize/express-example/blob/legacy/models/task.js"
         ],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize hasMany example",
@@ -1507,23 +1445,103 @@
           "https://github.com/sequelize/express-example/blob/legacy/models/user.js"
         ],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize Additional Associations",
         "links": ["https://sequelize.org/master/manual/assocs.html"],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "Sequelize Eager Loading (Used for Joins)",
         "links": ["https://sequelize.org/master/manual/eager-loading.html"],
         "comments": "",
-        "week": 14
+        "week": 13
       },
       {
         "title": "MySQL Left Outer Join",
         "links": ["https://www.w3schools.com/sql/sql_join_left.asp"],
+        "comments": "",
+        "week": 13
+      }
+    ]
+  },
+  {
+    "module": "Unit 14: MVC",
+    "week": 14,
+    "resources": [
+      {
+        "title": "Sequelize Docs",
+        "links": ["https://sequelize.org/master/"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "npm documentation on connect-session-sequelize",
+        "links": ["https://www.npmjs.com/package/connect-session-sequelize"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "GitHub documentation on Express.js session cookies",
+        "links": ["https://github.com/expressjs/session#cookie"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "handlebarsjs",
+        "links": ["https://handlebarsjs.com/"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "Express Handlebars",
+        "links": ["https://www.npmjs.com/package/express-handlebars"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "Express.js documentation on using middleware",
+        "links": ["https://expressjs.com/en/guide/using-middleware.html"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "REST API",
+        "links": [
+          "http://www.restapitutorial.com/lessons/whatisrest.html",
+          "https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/"
+        ],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "MVC",
+        "links": [
+          "https://www.educba.com/what-is-mvc-design-pattern/",
+          "https://www.tutorialsteacher.com/mvc/mvc-architecture#:~:text=MVC%20stands%20for%20Model%2C%20View,data%20retrieved%20from%20the%20database",
+          "https://alistapart.com/article/javascript-mvc/",
+          "https://www.sitepoint.com/mvc-design-pattern-javascript/"
+        ],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "ESLint configuration user guide",
+        "links": ["https://eslint.org/docs/user-guide/configuring"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "Prettier documentation",
+        "links": ["https://prettier.io/docs/en/index.html"],
+        "comments": "",
+        "week": 14
+      },
+      {
+        "title": "SQL Injection",
+        "links": ["https://en.wikipedia.org/wiki/SQL_injection"],
         "comments": "",
         "week": 14
       }
@@ -1556,6 +1574,30 @@
       {
         "title": "Github Actions",
         "links": ["https://github.com/features/actions"],
+        "comments": "",
+        "week": 15
+      },
+      {
+        "title": "Deploy with Heroku and MySQL",
+        "links": ["https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql"],
+        "comments": "",
+        "week": 15
+      },
+      {
+        "title": "Agile Methodology",
+        "links": ["https://en.wikipedia.org/wiki/Agile_software_development"],
+        "comments": "",
+        "week": 15
+      },
+      {
+        "title": "Git Branching",
+        "links": ["https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows"],
+        "comments": "",
+        "week": 15
+      },
+      {
+        "title": "Learn Enough Git to Be Dangerous",
+        "links": ["https://www.learnenough.com/git-tutorial/getting_started"],
         "comments": "",
         "week": 15
       }
