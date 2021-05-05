@@ -1464,6 +1464,30 @@
         "links": ["https://www.w3schools.com/sql/sql_join_left.asp"],
         "comments": "",
         "week": 13
+      },
+      {
+        "title": "Deploy with Heroku and MySQL",
+        "links": ["https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql"],
+        "comments": "",
+        "week": 13
+      },
+      {
+        "title": "npm documentation on bcrypt",
+        "links": ["https://www.npmjs.com/package/bcrypt"],
+        "comments": "",
+        "week": 13
+      },
+      {
+        "title": "npm documentation on dotenv",
+        "links": ["https://www.npmjs.com/package/dotenv"],
+        "comments": "",
+        "week": 13
+      },
+      {
+        "title": "ESLint configuration user guide",
+        "links": ["https://eslint.org/docs/user-guide/configuring"],
+        "comments": "",
+        "week": 13
       }
     ]
   },
