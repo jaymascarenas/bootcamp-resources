@@ -1302,9 +1302,7 @@
       },
       {
         "title": "How to Kill Stuck Ports via CLI",
-        "links": [
-          "https://www.npmjs.com/package/kill-port"
-        ],
+        "links": ["https://www.npmjs.com/package/kill-port"],
         "comments": "Install the CLI version globally for global use.",
         "week": 11
       }
@@ -1467,7 +1465,9 @@
       },
       {
         "title": "Deploy with Heroku and MySQL",
-        "links": ["https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql"],
+        "links": [
+          "https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql"
+        ],
         "comments": "",
         "week": 13
       },
@@ -1603,7 +1603,9 @@
       },
       {
         "title": "Deploy with Heroku and MySQL",
-        "links": ["https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql"],
+        "links": [
+          "https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql"
+        ],
         "comments": "",
         "week": 15
       },
@@ -1615,7 +1617,9 @@
       },
       {
         "title": "Git Branching",
-        "links": ["https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows"],
+        "links": [
+          "https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows"
+        ],
         "comments": "",
         "week": 15
       },
@@ -1637,14 +1641,146 @@
     ]
   },
   {
-    "module": "Unit 17: NoSQL",
+    "module": "Unit 17: Computer Science",
     "week": 17,
+    "resources": [
+      {
+        "title": "Global Execution Context",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this#global_context"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Functional Execution Context",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this#Function_context"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "What Is the Event Loop?",
+        "links": ["https://www.youtube.com/watch?v=8aGhZQkoFbQ"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Scope vs. Context",
+        "links": [
+          "https://blog.kevinchisholm.com/javascript/difference-between-scope-and-context/"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Data Structures",
+        "links": ["https://en.wikipedia.org/wiki/Data_structure"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Event Loops",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop#Event_loop"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Higher Order Functions",
+        "links": [
+          "https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Closures",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Composition Over Inheritance",
+        "links": ["https://en.wikipedia.org/wiki/Composition_over_inheritance"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Practical Closures",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures/#Practical_closures"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Linear Search",
+        "links": ["https://en.wikipedia.org/wiki/Linear_search"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Recursion",
+        "links": ["https://en.wikipedia.org/wiki/Recursion"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Binary Search",
+        "links": ["https://en.wikipedia.org/wiki/Binary_search_algorithm"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Big O Notation",
+        "links": ["https://en.wikipedia.org/wiki/Big_O_notation"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Merge Sort",
+        "links": ["https://en.wikipedia.org/wiki/Sorting_algorithm#Merge_sort"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Bubble Sort",
+        "links": [
+          "https://en.wikipedia.org/wiki/Sorting_algorithm#Bubble_sort"
+        ],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "Quick Sort",
+        "links": ["https://en.wikipedia.org/wiki/Sorting_algorithm#Quicksort"],
+        "comments": "",
+        "week": 17
+      },
+      {
+        "title": "MongoDB Installation Guide",
+        "links": [
+          "https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb"
+        ],
+        "comments": "",
+        "week": 17
+      }
+    ]
+  },
+  {
+    "module": "Unit 18: NoSQL",
+    "week": 18,
     "resources": [
       {
         "title": "Mongojs Operators",
         "links": ["https://docs.mongodb.com/manual/reference/operator/"],
         "comments": "",
-        "week": 17
+        "week": 18
       },
       {
         "title": "MongoDB Commands Cheat Sheets",
@@ -1653,193 +1789,73 @@
           "https://cheatography.com/isaeus/cheat-sheets/mongodb/pdf/"
         ],
         "comments": "",
-        "week": 17
+        "week": 18
       },
       {
         "title": "Mongoose",
         "links": ["https://mongoosejs.com "],
         "comments": "",
-        "week": 17
+        "week": 18
       },
       {
         "title": "Potential Mongoose Depreciation Information",
         "links": ["https://mongoosejs.com/docs/deprecations.html"],
         "comments": "",
-        "week": 17
+        "week": 18
       },
       {
         "title": "Mongoose Validations",
         "links": ["https://mongoosejs.com/docs/validation.html"],
         "comments": "",
-        "week": 17
+        "week": 18
       },
       {
         "title": "Mongoose Instance Methods",
         "links": ["https://mongoosejs.com/docs/guide.html#methods"],
         "comments": "",
-        "week": 17
+        "week": 18
       },
       {
         "title": "Mongoose Populate",
         "links": ["https://mongoosejs.com/docs/populate.html"],
         "comments": "",
-        "week": 17
-      },
-      {
-        "title": "Using IndexedDB",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "IDBFactory Open",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory/open"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "keyPath",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/keyPath"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "createIndex()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/createIndex"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "createObjectStore()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBDatabase/createObjectStore"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "autoIncrement KeyPath",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/autoIncrement"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "add()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/add"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "get()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/get"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "getAll()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/getAll"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "transaction()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBDatabase/transaction"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "index()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/index"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "openCursor()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/openCursor"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "update()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor/update"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "continue()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor/continue"
-        ],
-        "comments": "",
-        "week": 17
-      },
-      {
-        "title": "clear()",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/clear"
-        ],
-        "comments": "",
-        "week": 17
+        "week": 18
       }
     ]
   },
   {
-    "module": "Unit 18: PWA",
-    "week": 18,
+    "module": "Unit 19: PWA",
+    "week": 19,
     "resources": [
       {
         "title": "Lighthouse",
         "links": ["https://developers.google.com/web/tools/lighthouse/"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Our example gallery app",
         "links": ["https://ancient-brushlands-76706.herokuapp.com/"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "JSCompress",
         "links": ["https://jscompress.com/"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Compression NPM",
         "links": ["https://www.npmjs.com/package/compression"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Tiny PNG",
         "links": ["https://tinypng.com/"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "IntersectionObserver (Lazy Loading)",
@@ -1847,7 +1863,7 @@
           "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Loading"
         ],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Lazy Loading Attribute",
@@ -1856,7 +1872,127 @@
           "https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes"
         ],
         "comments": "",
-        "week": 18
+        "week": 19
+      },
+      {
+        "title": "Using IndexedDB",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "IDBFactory Open",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory/open"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "keyPath",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/keyPath"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "createIndex()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/createIndex"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "createObjectStore()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBDatabase/createObjectStore"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "autoIncrement KeyPath",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/autoIncrement"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "add()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/add"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "get()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/get"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "getAll()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/getAll"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "transaction()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBDatabase/transaction"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "index()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/index"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "openCursor()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/openCursor"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "update()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor/update"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "continue()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor/continue"
+        ],
+        "comments": "",
+        "week": 19
+      },
+      {
+        "title": "clear()",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/clear"
+        ],
+        "comments": "",
+        "week": 19
       },
       {
         "title": "Using Service Workers",
@@ -1864,7 +2000,7 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers"
         ],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "caches.open()",
@@ -1872,25 +2008,25 @@
           "https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage/open"
         ],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Web Manifest",
         "links": ["https://developer.mozilla.org/en-US/docs/Web/Manifest"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Great overview of PWA’s",
         "links": ["https://web.dev/progressive-web-apps/"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "PWABuilder open sourced from Microsoft",
         "links": ["https://www.pwabuilder.com/"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Other Examples",
@@ -1898,43 +2034,43 @@
           "https://www.digitalocean.com/community/tutorials/demystifying-the-service-worker-lifecycle"
         ],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Webpack Concepts",
         "links": ["https://webpack.js.org/concepts/"],
         "comments": "",
-        "week": 18
+        "week": 19
       },
       {
         "title": "Why Webpack",
         "links": ["https://webpack.js.org/concepts/why-webpack/"],
         "comments": "",
-        "week": 18
+        "week": 19
       }
     ]
   },
   {
-    "module": "Unit 19: React",
-    "week": 19,
+    "module": "Unit 20: React",
+    "week": 20,
     "resources": [
       {
         "title": "Create React App",
         "links": ["https://reactjs.org/docs/create-a-new-react-app.html"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Hello World",
         "links": ["https://facebook.github.io/react/docs/hello-world.html"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Introducing JSX",
         "links": ["https://facebook.github.io/react/docs/introducing-jsx.html"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Rendering Elements",
@@ -1942,7 +2078,7 @@
           "https://facebook.github.io/react/docs/rendering-elements.html"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Components and Props",
@@ -1950,19 +2086,19 @@
           "https://facebook.github.io/react/docs/components-and-props.html"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "State and Lifecycle",
         "links": ["https://reactjs.org/docs/state-and-lifecycle.html"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Handling Events",
         "links": ["https://reactjs.org/docs/handling-events.html"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Lifting State Up",
@@ -1970,7 +2106,7 @@
           "https://facebook.github.io/react/docs/lifting-state-up.html"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Uncontrolled Components",
@@ -1978,7 +2114,7 @@
           "https://facebook.github.io/react/docs/uncontrolled-components.html"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Controlled vs Uncontrolled Components",
@@ -1986,7 +2122,7 @@
           "https://blog.bitsrc.io/react-controlled-vs-uncontrolled-components-f569f4215ac9"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Smart and Dumb Components",
@@ -1994,7 +2130,7 @@
           "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "React Lifecycle Methods and When to Use Them",
@@ -2002,19 +2138,19 @@
           "https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Two Really nice React Form Libraries",
         "links": ["https://react-hook-form.com/"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "formik",
         "links": ["https://formik.org/"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Object Initializer Syntax",
@@ -2022,7 +2158,7 @@
           "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Computed_property_names"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Info on Legacy Lifecycle Methods",
@@ -2030,196 +2166,17 @@
           "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
         ],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "Conditional Rendering",
         "links": ["https://reactjs.org/docs/conditional-rendering.html"],
         "comments": "",
-        "week": 19
+        "week": 20
       },
       {
         "title": "React Router",
         "links": ["https://reactrouter.com/"],
-        "comments": "",
-        "week": 19
-      }
-    ]
-  },
-  {
-    "module": "Unit 20: State",
-    "week": 20,
-    "resources": [
-      {
-        "title": "React Hooks Docs",
-        "links": ["https://reactjs.org/docs/hooks-intro.html"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "A Complete Guide to useEffect()",
-        "links": ["https://overreacted.io/a-complete-guide-to-useeffect/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "React: useEffect explained with lifecycle methods",
-        "links": [
-          "https://dev.to/prototyp/react-useeffect-explained-with-lifecycle-methods-296n"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "useEffect Cleanup",
-        "links": [
-          "https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "How to Solve the Infinite Loop of React.useEffect()",
-        "links": ["https://dmitripavlutin.com/react-useeffect-infinite-loop/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "List of React Hooks",
-        "links": ["https://nikgraf.github.io/react-hooks/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "Pupster Walkthrough",
-        "links": [
-          "https://www.youtube.com/watch?v=_l1cwxBLhBY&feature=youtu.be"
-        ],
-        "comments": "",
-        "week": 20
-      },
-
-      {
-        "title": "A Visual Guide to State in React",
-        "links": ["https://daveceddia.com/visual-guide-to-state-in-react/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "React 16 Lifecycle Methods: How and When to Use Them",
-        "links": [
-          "https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "HTML ‘datalist’ Element (a poor person’s auto-complete)",
-        "links": [
-          "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "Access HTML ‘data-’ Attributes onClick in React",
-        "links": [
-          "https://stackoverflow.com/questions/20377837/how-to-access-custom-attributes-from-event-object-in-react/20383295#20383295"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "The Hitchhiker’s Guide to React Router v4: [match, location, history] — your best friends!",
-        "links": [
-          "https://www.freecodecamp.org/news/hitchhikers-guide-to-react-router-v4-4b12e369d10/"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "Pass props to a component rendered by React Router",
-        "links": [
-          "https://tylermcginnis.com/react-router-pass-props-to-components/"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "Making a Progressive Web App in React (ie using service workers)",
-        "links": [
-          "https://create-react-app.dev/docs/making-a-progressive-web-app"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "React Context API ",
-        "links": ["https://reactjs.org/docs/context.html"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "React useContext",
-        "links": ["https://reactjs.org/docs/hooks-reference.html#usecontext"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "useReducer",
-        "links": ["https://reactjs.org/docs/hooks-reference.html#usereducer"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "useRef",
-        "links": ["https://reactjs.org/docs/hooks-reference.html#useref"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "Redux",
-        "links": ["https://redux.js.org/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "3 Rules of React State Managment",
-        "links": ["https://dmitripavlutin.com/react-state-management/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "React State Management: React Hooks vs Redux",
-        "links": [
-          "https://tsh.io/blog/react-state-management-react-hooks-vs-redux/"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "Styled Components",
-        "links": ["https://styled-components.com/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "One Line CSS Layouts",
-        "links": ["https://web.dev/one-line-layouts/"],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "How to replace the Create React App git remote URL to your own GitHub remote URL",
-        "links": [
-          "https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url"
-        ],
-        "comments": "",
-        "week": 20
-      },
-      {
-        "title": "WebGradients",
-        "links": ["https://webgradients.com/"],
         "comments": "",
         "week": 20
       }
@@ -2230,52 +2187,267 @@
     "week": 21,
     "resources": [
       {
-        "title": "Food Lookup Demo",
-        "links": ["https://github.com/fullstackreact/food-lookup-demo"],
+        "title": "Using the GraphQL Playground in a MERN Application",
+        "links": [
+          "https://coding-boot-camp.github.io/full-stack/apis/graphql-playground-guide"
+        ],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Deploy with Heroku and MongoDB Atlas",
+        "links": [
+          "https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas"
+        ],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Apollo Docs on GraphQL Playground",
+        "links": [
+          "https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/"
+        ],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Apollo Docs on queries and mutations",
+        "links": ["https://graphql.org/learn/queries/"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Apollo Docs on writing query resolvers",
+        "links": ["https://www.apollographql.com/docs/tutorial/resolvers/"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "GraphQL Docs on passing arguments",
+        "links": ["https://graphql.org/graphql-js/passing-arguments/"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Apollo Docs on mutations",
+        "links": ["https://www.apollographql.com/docs/react/data/mutations/"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Apollo Docs on updating data with mutations",
+        "links": ["https://www.apollographql.com/docs/tutorial/mutations/"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Apollo Docs on fetching data with queries",
+        "links": ["https://www.apollographql.com/docs/tutorial/queries/"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "React Router quick start guide",
+        "links": ["https://reactrouter.com/web/guides/quick-start"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Introduction to JSON Web Tokens",
+        "links": ["https://jwt.io/introduction"],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "Apollo Docs on authentication",
+        "links": [
+          "https://www.apollographql.com/docs/apollo-server/security/authentication/"
+        ],
+        "comments": "",
+        "week": 21
+      },
+      {
+        "title": "GitHub Docs on GitHub Actions",
+        "links": ["https://docs.github.com/en/actions"],
         "comments": "",
         "week": 21
       }
     ]
   },
   {
-    "module": "Unit 22: Computer-Science",
+    "module": "Unit 22: State",
     "week": 22,
     "resources": [
       {
-        "title": "Binary and Linear Search Example",
-        "links": ["https://www.cs.usfca.edu/~galles/visualization/Search.html"],
+        "title": "React Hooks Docs",
+        "links": ["https://reactjs.org/docs/hooks-intro.html"],
         "comments": "",
         "week": 22
       },
       {
-        "title": "VisualGo",
-        "links": ["http://visualgo.net/"],
+        "title": "A Complete Guide to useEffect()",
+        "links": ["https://overreacted.io/a-complete-guide-to-useeffect/"],
         "comments": "",
         "week": 22
       },
       {
-        "title": "Whiteboarding Overview and Questions",
+        "title": "React: useEffect explained with lifecycle methods",
         "links": [
-          "https://coding-bootcamp-whiteboarding-algorithms.readthedocs-hosted.com/en/latest/"
+          "https://dev.to/prototyp/react-useeffect-explained-with-lifecycle-methods-296n"
         ],
         "comments": "",
         "week": 22
       },
       {
-        "title": "VisualGo Sorting",
-        "links": ["https://visualgo.net/en/sorting"],
+        "title": "useEffect Cleanup",
+        "links": [
+          "https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm"
+        ],
         "comments": "",
         "week": 22
       },
       {
-        "title": "Topal.com Sorting Algorithms Visual",
-        "links": ["https://www.toptal.com/developers/sorting-algorithms"],
+        "title": "How to Solve the Infinite Loop of React.useEffect()",
+        "links": ["https://dmitripavlutin.com/react-useeffect-infinite-loop/"],
         "comments": "",
         "week": 22
       },
       {
-        "title": "lodash.com",
-        "links": ["https://lodash.com/"],
+        "title": "List of React Hooks",
+        "links": ["https://nikgraf.github.io/react-hooks/"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "Pupster Walkthrough",
+        "links": [
+          "https://www.youtube.com/watch?v=_l1cwxBLhBY&feature=youtu.be"
+        ],
+        "comments": "",
+        "week": 22
+      },
+
+      {
+        "title": "A Visual Guide to State in React",
+        "links": ["https://daveceddia.com/visual-guide-to-state-in-react/"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "React 16 Lifecycle Methods: How and When to Use Them",
+        "links": [
+          "https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "HTML ‘datalist’ Element (a poor person’s auto-complete)",
+        "links": [
+          "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "Access HTML ‘data-’ Attributes onClick in React",
+        "links": [
+          "https://stackoverflow.com/questions/20377837/how-to-access-custom-attributes-from-event-object-in-react/20383295#20383295"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "The Hitchhiker’s Guide to React Router v4: [match, location, history] — your best friends!",
+        "links": [
+          "https://www.freecodecamp.org/news/hitchhikers-guide-to-react-router-v4-4b12e369d10/"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "Pass props to a component rendered by React Router",
+        "links": [
+          "https://tylermcginnis.com/react-router-pass-props-to-components/"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "Making a Progressive Web App in React (ie using service workers)",
+        "links": [
+          "https://create-react-app.dev/docs/making-a-progressive-web-app"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "React Context API ",
+        "links": ["https://reactjs.org/docs/context.html"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "React useContext",
+        "links": ["https://reactjs.org/docs/hooks-reference.html#usecontext"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "useReducer",
+        "links": ["https://reactjs.org/docs/hooks-reference.html#usereducer"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "useRef",
+        "links": ["https://reactjs.org/docs/hooks-reference.html#useref"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "Redux",
+        "links": ["https://redux.js.org/"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "3 Rules of React State Managment",
+        "links": ["https://dmitripavlutin.com/react-state-management/"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "React State Management: React Hooks vs Redux",
+        "links": [
+          "https://tsh.io/blog/react-state-management-react-hooks-vs-redux/"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "Styled Components",
+        "links": ["https://styled-components.com/"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "One Line CSS Layouts",
+        "links": ["https://web.dev/one-line-layouts/"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "How to replace the Create React App git remote URL to your own GitHub remote URL",
+        "links": [
+          "https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url"
+        ],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "WebGradients",
+        "links": ["https://webgradients.com/"],
         "comments": "",
         "week": 22
       }
@@ -2308,7 +2480,7 @@
     ]
   },
   {
-    "module": "Unit 23: Project-3-Contd",
+    "module": "Unit 24: Project-3-Contd",
     "week": 24,
     "resources": [
       {
