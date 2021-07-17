@@ -2319,15 +2319,6 @@
         "week": 22
       },
       {
-        "title": "Pupster Walkthrough",
-        "links": [
-          "https://www.youtube.com/watch?v=_l1cwxBLhBY&feature=youtu.be"
-        ],
-        "comments": "",
-        "week": 22
-      },
-
-      {
         "title": "A Visual Guide to State in React",
         "links": ["https://daveceddia.com/visual-guide-to-state-in-react/"],
         "comments": "",
@@ -2448,6 +2439,12 @@
       {
         "title": "WebGradients",
         "links": ["https://webgradients.com/"],
+        "comments": "",
+        "week": 22
+      },
+      {
+        "title": "Stripe API",
+        "links": ["https://stripe.com/docs/payments"],
         "comments": "",
         "week": 22
       }
