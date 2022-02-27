@@ -40,14 +40,6 @@
         "week": 1
       },
       {
-        "title": "Video Review of the Student Bio Activity",
-        "links": [
-          "https://www.youtube.com/watch?v=kMBinXTCrXI&list=PLgJ8UgkiorCnMLsUevoQRxH8t9bt7ne14&index=2"
-        ],
-        "comments": "",
-        "week": 1
-      },
-      {
         "title": "Paths",
         "links": ["https://css-tricks.com/quick-reminder-about-file-paths/"],
         "comments": "",
@@ -62,26 +54,6 @@
       {
         "title": "CSS Floats",
         "links": ["https://css-tricks.com/all-about-floats/"],
-        "comments": "",
-        "week": 1
-      },
-      {
-        "title": "Floats in CSS Video Walkthrough",
-        "links": ["https://youtu.be/0lpxKw6E90Y"],
-        "comments": "",
-        "week": 1
-      },
-      {
-        "title": "Positioning in CSS Video Walkthrough",
-        "links": ["https://youtu.be/sHfJn0jqBro"],
-        "comments": "",
-        "week": 1
-      },
-      {
-        "title": "Positioning in CSS Video",
-        "links": [
-          "https://www.youtube.com/watch?v=yWXgnQaWSW0&feature=youtu.be"
-        ],
         "comments": "",
         "week": 1
       },
@@ -104,12 +76,6 @@
         "links": [
           "https://css-tricks.com/to-double-colon-or-not-do-double-colon/"
         ],
-        "comments": "",
-        "week": 1
-      },
-      {
-        "title": "Floats Activity Video Walkthrough ",
-        "links": ["https://www.youtube.com/watch?v=0lpxKw6E90Y"],
         "comments": "",
         "week": 1
       },
@@ -278,12 +244,6 @@
         "links": [
           "https://stackoverflow.com/questions/35024593/what-does-array-length-1-mean-in-javascript"
         ],
-        "comments": "",
-        "week": 3
-      },
-      {
-        "title": "18-ZooLoop Video Walkthrough",
-        "links": ["https://www.youtube.com/watch?v=zJO9g7S2_Xo"],
         "comments": "",
         "week": 3
       },
@@ -601,24 +561,6 @@
         "week": 5
       },
       {
-        "title": "jQuery DrinkList Video Review",
-        "links": ["https://www.youtube.com/watch?v=9_9-NeU2L_U"],
-        "comments": "",
-        "week": 5
-      },
-      {
-        "title": "jQuery Sandwich Click Video Review",
-        "links": ["https://www.youtube.com/watch?v=6BLReDBUZRk"],
-        "comments": "",
-        "week": 5
-      },
-      {
-        "title": "jQuery Lottery Generator Video Review",
-        "links": ["https://www.youtube.com/watch?v=Nh4wxhzePIs"],
-        "comments": "",
-        "week": 5
-      },
-      {
         "title": "jQuery to Vanilla JS - Has great examples of jQuery syntax and their vanilla JS counterparts",
         "links": [
           "https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/"
@@ -746,20 +688,8 @@
         "week": 6
       },
       {
-        "title": "AJAX Triggered by Buttons Video Walkthrough Review",
-        "links": ["https://www.youtube.com/watch?v=K1JDUkF94cs"],
-        "comments": "",
-        "week": 6
-      },
-      {
         "title": "NYT API Signup",
         "links": ["https://developer.nytimes.com/signup"],
-        "comments": "",
-        "week": 6
-      },
-      {
-        "title": "NY Times Article App Video Walkthrough Review",
-        "links": ["https://www.youtube.com/watch?v=QiIlhmeGYuk"],
         "comments": "",
         "week": 6
       }
@@ -1231,12 +1161,6 @@
         "week": 11
       },
       {
-        "title": "Star Wars Express Video Walkthrough",
-        "links": ["https://youtu.be/ygk-kNstqK0"],
-        "comments": "",
-        "week": 11
-      },
-      {
         "title": "Heroku CLI Install guide",
         "links": [
           "https://du.bootcampcontent.com/denver-coding-bootcamp/DU-DEN-FSF-PT-06-2020-U-C/blob/master/11-express/04-Supplemental/HerokuGuide.md"
@@ -1275,14 +1199,6 @@
       {
         "title": "Hot Restaurant App",
         "links": ["http://hot-restaurant.herokuapp.com/"],
-        "comments": "",
-        "week": 11
-      },
-      {
-        "title": "Hot Restaurant Video Walkthrough",
-        "links": [
-          "https://youtu.be/G7RvQMW2DOg?list=PLgJ8UgkiorCmI_wKKVt5FlkTG63sQF6rr"
-        ],
         "comments": "",
         "week": 11
       },
